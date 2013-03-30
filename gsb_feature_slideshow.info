@@ -1,0 +1,7 @@
+name = GSB Feature Slideshow
+description = This adds the slideshow feature fpp, widget, view mode etc
+core = 7.x
+package = GSB
+php = 5.2.4
+version = 7.x-1.0
+project = gsb_feature_slideshow
